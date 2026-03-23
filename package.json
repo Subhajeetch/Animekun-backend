@@ -7,10 +7,9 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "manto",
+  "author": "Subhajeetch",
   "license": "ISC",
   "dependencies": {
-    "aniwatch": "^2.24.3",
     "axios": "^1.7.8",
     "cheerio": "^1.0.0",
     "cors": "^2.8.5",
